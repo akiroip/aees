@@ -1,7 +1,6 @@
 <release>
-	<version>0.9</version>
-    <build>202104060021</build>	
-    <url>https://github.com/akiroip/aees/blob/main/modrica_v096.apg?raw=true</url>
-    <archive>AU20210406</archive>
-    <log>1</log>
+    <version>0.9</version>
+    <build>202104110000</build>	
+    <type>simple</type>
+    <archive>modrica_v096.apg</archive>
 </release>
