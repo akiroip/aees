@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
     <version>0.9</version>
-    <build>202104110038</build>
+    <build>202104220038</build>
     <type>simple</type>
     <archive>test.exe</archive>
     <signature>51185f5acc7c26819d0e9f198c1bb4151fbac23a</signature>
