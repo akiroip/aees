@@ -3,7 +3,7 @@
     <version>0.9</version>
     <build>202104220038</build>
     <type>simple</type>
-    <archive>test.exe</archive>
-    <signature>51185f5acc7c26819d0e9f198c1bb4151fbac23a</signature>
+    <archive>AEES_update.exe</archive>
+    <signature>ead079e6a28d2e48979dd0bb241935963a172e72</signature>
     <info>Nova verzija. Otklonjeni nedostatci u update sistemu.</info>
 </release>
