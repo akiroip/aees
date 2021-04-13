@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
     <version>0.9</version>
-    <build>202104132346</build>
+    <build>202104140052</build>
     <type>simple</type>
     <archive>AEES_update.exe</archive>
-    <signature>464983297be4b5570efe82b59df9af6f90799b36</signature>
+    <signature>0ee59d5b9c95e73b0ac83cd0e0b0422ccd1f5cd3</signature>
     <info>Popravljen uvoz starih datoteka. Omogućen prikaz enumeracije sabirnica.</info>
 </release>
