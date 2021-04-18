@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
     <version>0.9</version>
-    <build>202104140052</build>
+    <build>202104181841</build>
     <type>simple</type>
     <archive>AEES_update.exe</archive>
-    <signature>0ee59d5b9c95e73b0ac83cd0e0b0422ccd1f5cd3</signature>
-    <info>Popravljen uvoz starih datoteka. Omogućen prikaz enumeracije sabirnica.</info>
+    <signature>c9e9c9292cbce59ed6807314096af034704b2edb</signature>
+    <info>Ispravljeno generisanje modela transformatora zajedno sa provjerom testnih podataka. Omogućeno editovanje informacija projekta.</info>
 </release>
