@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
     <version>0.9</version>
-    <build>202104182338</build>
+    <build>202104190038</build>
     <type>simple</type>
     <archive>AEES_update.exe</archive>
-    <signature>88644033f610a561677d46a03e3e5b8bf35d6046</signature>
-    <info>Ispravljena greška sa povezivanjem elemenata sheme.</info>
+    <signature>3abda966bc9f0998ee6830a26f8dd22875b01c14</signature>
+    <info>Ispravljena greška sa povezivanjem elemenata sheme. Dodan prikaz dnevnika promjena u verzijama programa.</info>
 </release>
