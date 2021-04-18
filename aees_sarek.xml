@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
     <version>0.9</version>
-    <build>202104181841</build>
+    <build>202104182338</build>
     <type>simple</type>
     <archive>AEES_update.exe</archive>
-    <signature>c9e9c9292cbce59ed6807314096af034704b2edb</signature>
-    <info>Ispravljeno generisanje modela transformatora zajedno sa provjerom testnih podataka. Omogućeno editovanje informacija projekta.</info>
+    <signature>88644033f610a561677d46a03e3e5b8bf35d6046</signature>
+    <info>Ispravljena greška sa povezivanjem elemenata sheme.</info>
 </release>
