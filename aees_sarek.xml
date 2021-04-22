@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
     <version>0.9</version>
-    <build>202104192205</build>
+    <build>202104222244</build>
     <type>simple</type>
     <archive>AEES_update.exe</archive>
-    <signature>fdc45112020101ed0a0a2b00554a530117d31d2a</signature>
-    <info>Ispravljena greška sa otvaranjem dokumenata dok je već otvorena shema. Redizajniran interfejs koristeći pomične toolbare.</info>
+    <signature>333bd190b0d96b0ca3bf14ca8d995a9c1f0201f2</signature>
+    <info>Dodana mogućnost izbora veličine radnog prostora kod kreiranja novog projekta. Dodana opcija brisanja ulaza/izlaza na sabirnicama koji su ručno dodani. Uklonjeno uvjetovanje povezivanja izlaz na ulaz.</info>
 </release>
