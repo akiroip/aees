@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
     <version>0.9</version>
-    <build>202104222244</build>
+    <build>202104262227</build>
     <type>simple</type>
     <archive>AEES_update.exe</archive>
-    <signature>333bd190b0d96b0ca3bf14ca8d995a9c1f0201f2</signature>
-    <info>Dodana mogućnost izbora veličine radnog prostora kod kreiranja novog projekta. Dodana opcija brisanja ulaza/izlaza na sabirnicama koji su ručno dodani. Uklonjeno uvjetovanje povezivanja izlaz na ulaz.</info>
+    <signature>da13b9bbd67249997e3e046bfded066392e7627a</signature>
+    <info>Dodano automatsko računanje parametara modela transformatora za standardne snage i napone. Za nestandardne vrijednosti program traži unos od korisnika. Promjenjene standardne veličine radnog prostora.</info>
 </release>
