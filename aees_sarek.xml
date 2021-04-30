@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
     <version>0.9</version>
-    <build>202104262227</build>
+    <build>202104302155</build>
     <type>simple</type>
     <archive>AEES_update.exe</archive>
-    <signature>da13b9bbd67249997e3e046bfded066392e7627a</signature>
-    <info>Dodano automatsko računanje parametara modela transformatora za standardne snage i napone. Za nestandardne vrijednosti program traži unos od korisnika. Promjenjene standardne veličine radnog prostora.</info>
+    <signature>a72e4fb94f6a20a9c7f93b45ba2ebe4d0b9716c4</signature>
+    <info>Dodana grafička oznaka primara transformatora, za laše povezivanje sheme. Omogućeno zadavanje modela PQ generatora sa P i cosfi.</info>
 </release>
