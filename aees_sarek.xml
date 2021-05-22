@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
-    <version>0.9</version>
-    <build>202104302155</build>
+    <version>0.92</version>
+    <build>202105222317</build>
     <type>simple</type>
     <archive>AEES_update.exe</archive>
-    <signature>a72e4fb94f6a20a9c7f93b45ba2ebe4d0b9716c4</signature>
-    <info>Dodana grafička oznaka primara transformatora, za laše povezivanje sheme. Omogućeno zadavanje modela PQ generatora sa P i cosfi.</info>
+    <signature>673d98c061066964008eb4e67d39d2b05b4f7d8b</signature>
+    <info>Dodana opcija definisanja tipa sabirnice: obična, sa kondenzatorskom baterijom i potrošnjom. Eksperimentalno uvršten brzi raspregnuti algoritam za računanje tokova snage.</info>
 </release>
