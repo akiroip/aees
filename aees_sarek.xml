@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <release>
-    <version>0.92</version>
-    <build>202105222317</build>
+    <version>0.93</version>
+    <build>202204210046</build>
     <type>simple</type>
-    <archive>AEES_update.exe</archive>
-    <signature>673d98c061066964008eb4e67d39d2b05b4f7d8b</signature>
-    <info>Dodana opcija definisanja tipa sabirnice: obična, sa kondenzatorskom baterijom i potrošnjom. Eksperimentalno uvršten brzi raspregnuti algoritam za računanje tokova snage.</info>
+    <archive>AEES_patch.exe</archive>
+    <signature>90b0e97d7594a841ac61483afedcd74078c72b9d</signature>
+    <info>Dodan olakšan pristup pet zadnje otvorenih projekata. Izmjena prikaza elemenata na jednopolnoj shemi upotrebom vektorskih ikona.</info>
 </release>
